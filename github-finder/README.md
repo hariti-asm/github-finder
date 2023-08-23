@@ -1,1 +1,1 @@
-# GitHub-Finder https://hariti-asm.github.io/github-finder/
+# GitHub-Finder https://hariti-asm/github-finder/
